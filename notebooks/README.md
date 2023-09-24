@@ -1,0 +1,1 @@
+Each of your lab assignments will be completed in one of these folders. The root of the labs can be found [here](https://codelabs.cs.pdx.edu/cs491/)
